@@ -1,6 +1,5 @@
 import numpy as np
 import scipy
-import tiffspect
 
 
 def spsi(msgram, fftsize, hop_length) :
